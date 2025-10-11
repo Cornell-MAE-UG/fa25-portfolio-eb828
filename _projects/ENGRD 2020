@@ -1,0 +1,10 @@
+---
+layout: project
+title: Linear Actuator Design
+description: Drawing Project for ENGRD 2020
+technologies: None
+image: /assets/images/radio-machine-cad.jpg
+---
+
+For our homework assignment, we were asked to draw a design for something to lift a weight on a cantilever beam as high as possible using a linear actuator, 3 joints, and a beam.
+I came up with the idea to have the linear actuator normal to the beam carrying the weight, so that the linear actuator can extend the beam vertically as far as possible.
