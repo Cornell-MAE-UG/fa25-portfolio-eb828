@@ -6,7 +6,7 @@ title: Emely Benavides
 ## About Me
 
 
-![Profile Picture]({{ "assets/images/download.png" | relative_url }}){: class="profile-image"}
+![Profile Picture]({{ assets/images/download.png | relative_url }}){: class="profile-image"}
 
  
 My name is Emely Benavides, and I am a freshman studying Mechanical Engineering at Cornell University. From cats to cars to CAD, my heart belongs to anything with charm, creativity, or whiskers.
