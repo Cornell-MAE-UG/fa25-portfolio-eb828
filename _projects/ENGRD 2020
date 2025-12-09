@@ -17,5 +17,8 @@ description: Updated Drawing Project for ENGRD 2020
 technologies: None
 ---
 
-I decided to design a hexagonal scissor lift to complete this assignment, with a horizontal bar AC fixed to the floor with pins, a moving platform, and 4 links connected to make 2 elbows, creating the hexagonal shape. The top of the actuator is pinned to the midpoint of the moving top platform, while the bottom of the actuator is pinned near the midpoint of the bottom, rigid bar. Base = 1.20 m. L(top) = 1.20 m. Scissor links all the same length l.
-image: 
+I decided to design a hexagonal scissor lift to complete this assignment, with a horizontal bar AC fixed to the floor with pins, a moving platform, and 4 links connected to make 2 elbows, creating the hexagonal shape. The top of the actuator is pinned to the midpoint of the moving top platform, while the bottom of the actuator is pinned near the midpoint of the bottom, rigid bar. Base = 1.20 m. L(top) = 1.20 m. Scissor links all the same length l. Below are the physical reasoning checks and the design itself:
+image: assets/images/20251208-225707_p0.jpg
+
+Here is the math taking into account the fact that the beam bends. It contains the design choices to make it physically possible (Outer diameter of the thin-walled hollow circular tubes = 52 mm; wall thickness = 4 mm; length of tube = 1.2 m; cross-sectional area = 6.03 * 10^-4 m^2).
+image: assets/images/20251208-225707_p1.jpg
